@@ -1,3 +1,5 @@
+// Exercício 2 - Declarando 3 variáveis em package scope e(int, string, bool) com valor zero
+
 package main
 
 	import "fmt"
