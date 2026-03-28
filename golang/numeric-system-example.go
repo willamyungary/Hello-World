@@ -1,4 +1,4 @@
-// Demonstrando números na forma decima, binário e hexadecimal 
+// Demonstrando números na forma decimal, binário e hexadecimal 
 
 package main
 
